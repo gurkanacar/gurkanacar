@@ -7,3 +7,7 @@
 - 📫 How to reach me: +90 534 707 9690(from whatsApp) or gurkanacar92@gmail.com
 - ⚡ Fun fact: I like to develop games and watch movies.
 
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]
